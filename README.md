@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 Hi 👋, I'm Mame Mar NIANG
 A passionate Full Stack Developer from Sénégal
 
