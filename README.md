@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 Hi 👋, I'm Mame Mar NIANG
-A passionate full stack developer from Sénégal
+A passionate Full Stack Developer from Sénégal
 
 🔭 I’m currently working at Perfplus
 
