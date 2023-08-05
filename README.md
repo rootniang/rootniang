@@ -4,7 +4,7 @@
 Hi 👋, I'm Mame Mar NIANG
 A passionate Full Stack Developer from Sénégal
 
-🔭 I’m currently working at Perfplus
+🔭 I’m currently working at Futur Digital
 
 🌱 I’m currently learning Datamining with Python, J2E Spring Boot
 
