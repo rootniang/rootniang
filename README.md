@@ -10,7 +10,7 @@ A passionate Full Stack Developer from Sénégal
 
 💬 Ask me about Angular , Laravel, CodeIgniter, ReactJS, Node & Express JS
 
-📫 How to reach me mamemarniang27@gmail.com 
+📫 How to reach me niangmamemar27@gmail.com 
 
 Connect with me:
 Twitter : @mar_niang95
